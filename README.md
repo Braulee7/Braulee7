@@ -1,7 +1,17 @@
-- Hi I my name is Braulio Reyes. I am a current university student at 
-- Portland State University studying computer science.
-- My current interests is working with artificial intelligence. I currently am working more with game based AI but wish to dive more into the realm of neuro networking but am open to learn anything and everything with programming.
-<!---
-Braulee7/Braulee7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi I am Braulio Reyes
+<br>
+<p><em>Currently studying at <a href="https://www.pdx.edu/">Portland State University </a></em></p>
+
+```ruby
+braulio = {
+  pronouns: => 'he/him',
+  experience: => 'SDE Intern @ Amazon',
+  skills => ['C++', 'Java', 'Ruby', 'Python'],
+  interests => {
+                'machine learning',
+                'game development',
+                'animation',
+                'graphics'
+                }
+```
+### I love learning new and experiencing new things and meetings people
