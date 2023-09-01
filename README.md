@@ -6,12 +6,13 @@
 braulio = {
   pronouns: => 'he/him',
   experience: => 'SDE Intern @ Amazon',
-  skills => ['C++', 'Java', 'Ruby', 'Python'],
-  interests => {
+  skills: => ['C++', 'Java', 'Ruby', 'Python'],
+  interests: => {
                 'machine learning',
                 'game development',
                 'animation',
                 'graphics'
                 }
+}
 ```
 ### I love learning new and experiencing new things and meetings people
