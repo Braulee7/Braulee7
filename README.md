@@ -15,4 +15,3 @@ braulio = {
                 }
 }
 ```
-### I love learning new and experiencing new things and meetings people
