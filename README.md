@@ -5,8 +5,11 @@
 ```ruby
 braulio = {
   pronouns: => 'he/him',
-  experience: => 'SDE Intern @ Amazon',
-  skills: => ['C++', 'Java', 'Ruby', 'Python'],
+  experience: => ['SDE Intern @ Amazon', 
+                  'SWE Intern @ MSFT']
+  skills: => ['Computer Graphics', 
+               'Distributed Systems',
+               'Full Stack Dev'],
   interests: => {
                 'machine learning',
                 'game development',
